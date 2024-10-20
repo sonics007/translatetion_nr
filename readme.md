@@ -19,3 +19,15 @@ Ako naištalovat Node-red si prečitaj tu https://nodered.org/docs/getting-start
        aby bolo možne preložit komplet
   c)  Zigbee2mqtt
       -https://flows.nodered.org/node/node-red-contrib-zigbee2mqtt 
+
+
+
+
+
+
+
+
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+</a>
