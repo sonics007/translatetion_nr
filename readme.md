@@ -25,7 +25,7 @@ Ako naištalovat Node-red si prečitaj tu https://nodered.org/docs/getting-start
 
 
 
-
+[![PayPal Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ABCDEFG123456)
 
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
